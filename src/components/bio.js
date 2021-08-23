@@ -39,7 +39,7 @@ const Bio = () => {
         src="../images/ProfilePic.jpg"
         width={50}
         height={50}
-        quality={95}
+        quality={100}
         alt="Profile picture"
       />
       {author?.name && (
@@ -47,7 +47,7 @@ const Bio = () => {
           Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+           Twitter
           </a>
         </p>
       )}

@@ -1,13 +1,9 @@
 ---
-title: My Second Post!
+title: My Second Blog
 date: "2015-05-06T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
-
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+I started writing Blogs, when I am moving towards the second Blog, it gaves me immense pleasure. It improved usage of appropriate English vocabularies.
+([Logan BGM Mix](https://twitter.com/kvas1407/status/1160029201128288256))
 
 Yeah, I didn't either.

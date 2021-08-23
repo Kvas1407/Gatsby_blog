@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Kvas Blog`,
+    title: `Keerthivasan's Blog`,
     author: {
       name: `Keerthivasan Kumar`,
-      summary: `Writing Blogs and Movie review is not a hobby, but also a typical practice that I develop. To know more about my blogs, Follow me:`,
+      summary: `Writing Blogs and Movie review is not a hobby, but also a typical practice that I develop. To know more about my blogs. Follow my blogs:`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

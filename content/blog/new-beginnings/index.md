@@ -1,61 +1,35 @@
 ---
-title: New Beginnings
+title: My First Blog
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: How did I started with my first Blog in the Twitter? The journey of start writing my first blog is always special to me.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+This Blog is about a Movie review named "NerKonda Parvai", which is all about supporting Women's identity rights and importance
+to the society.
 
-## On deer horse aboard tritely yikes and much
+### [Movie Cast](https://www.imdb.com/title/tt9675716/fullcredits)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+- Actor: Ajith Kumar
+- CoActor: Shraddha Srinath
+- Director: H.Vinoth
+- Producer: Boneey Kapoor
+- Music Composer: Yuvan Shankar Raja
+- Duration: 2h 38m
+- Rating: 3.5
+- Language: Tamil
+- Subtitle: English, French and Hindi
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+### [Movie Review](https://timesofindia.indiatimes.com/entertainment/tamil/movie-reviews/nerkonda-paarvai/movie-review/70551571.cms)
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+It is the mix of positive and negative feedback. Postiive feedback overates the negative comment from the public. Some of the famous comments from Public has been posted below:
 
-### Overlaid the jeepers uselessly much excluding
+> - Fantastic, fabulous and wonderful acting crew
+> - Could have did more better, the expectations doesnt meet.
+> - A great comeback by the crew, by exposing such a strong storyline and comment to the viewers
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+### Inspiration
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
-
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-### According a funnily until pre-set or arrogant well cheerful
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+It was inspired by the bollywood movie called "Pink". Boneey kapoor, the producer of this movie intiated this project. As expected the movie reached his heights. It was dedicated to his past wife named Sri devi. Since, Sri Devi being a close acquitance to actor Ajith, without thinking for second thought, he directly accepted to act in this movie.
 
 When she reached the first hills of the Italic Mountains, she had a last view
 back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
