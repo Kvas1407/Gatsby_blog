@@ -341,3 +341,14 @@ summary {
 [hidden] {
   display: none;
 }
+
+.date{
+  background-color:rgb(176, 194, 233);
+  
+}
+
+.footer{
+  margin-top: 5rem;
+  float: inline-end;
+  background-color:rgb(137, 190, 190);
+}
