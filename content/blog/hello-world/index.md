@@ -45,4 +45,4 @@ Based on the Shogakukan award-winning manga of the same name, InuYasha follows K
 
 Sometimes I think back on my experience with Inuyasha and my conclusions about it have always been conflicted. It was the first anime that I watched whole heartedly, and it was the first thing that brought me into the realm of Japanese media and culture. I've come to love anime and manga, appreciate the history and the different styles and subtleties that come with every genre and now consider it a very large and colorful part of my life. Naturally I look back on Inuyasha with a sense of fondness,the yellow volumes and DVD's on my shelves only a small testament to the dedication I had to the story. However as I said, Inuyasha is something I think about with a degree of conflict. It was the work that introduced me to the magical world of Japanese television, however in its own right Inuyasha is the most chaotic and exasperating anime I've probably ever seen.
 
-### [Know More](https://myanimelist.net/anime/249/InuYasha/reviews)
+[Know More](https://myanimelist.net/anime/249/InuYasha/reviews)
